@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m @adazol123
-⋅⋅⋅Computer Engineering Student @ 2019⋅⋅
-⋅⋅⋅Assistant System Engineer(**TCS**) @ 2020⋅⋅
-⋅⋅⋅Aspiring Full Stack Development @ 2021⋅⋅
+*:octocat: Computer Engineering Student @ 2019
+*👉 Assistant System Engineer(**TCS**) @ 2020
+*🔥 Aspiring Full Stack Development @ 2021
 ___
 + 👀 I’m interested in Full Stack Development
 + 🌱 I’m currently learning Node JS, React JS, Next JS
