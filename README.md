@@ -12,6 +12,7 @@ ___
  📫 How to reach me dpadayao40@gmail.com
 ---
 ### Junk Web
+- [Pokemon API fetch](https://pokemon-cards-adazol.vercel.app/)
 - [Live Group Chat](https://chat-box-adazolhub.web.app/)
 - [Adazolhub](https://adazolhub.online)
 - [Entrepreneurs Portfolio](https://entrepreneursportfolio.com)
