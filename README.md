@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://www.adazolhub.online">
+    <img src="./public/logo512.png" height="128">
+    <h1 align="center">Adazolhub</h1>
+  </a>
+</p>
+
 ## 👋 Hi, I’m @adazol123
 * :octocat: Computer Engineering Student @ 2019
 * 👉 Assistant System Engineer(**TCS**) @ 2020
