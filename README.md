@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://www.adazolhub.online">
     <img src="./logo.png" height="128">
-    <h1 align="center">Adazolhub</h1>
+    <h2 align="center">Adazol<span>HUB</span></h2>
   </a>
 </p>
 
