@@ -8,7 +8,7 @@
 ## 👋 Hi, I’m Daniel
 * :octocat: Computer Engineering Student @ 2019
 * 👉 System Engineer(**TCS**) @ 2020
-* 🔥 Aspiring Full Stack Development @ 2021
+* 🔥 Aspiring Full Stack Developer @ 2021
 ___
  👀 I’m interested in Full Stack Development
 
