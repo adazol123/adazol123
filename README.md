@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.adazolhub.online">
+  <a href="https://www.adazolhub.com">
     <img src="./logo.png" height="128">
     <h2 align="center">Adazol<span>HUB</span></h2>
   </a>
@@ -21,7 +21,7 @@ ___
 ### Junk Web
 - [Pokemon API fetch](https://pokemon-cards-adazol.vercel.app/)
 - [Live Group Chat](https://chat-box-adazolhub.web.app/)
-- [Adazolhub](https://adazolhub.online)
+- [Adazolhub](https://adazolhub.com)
 - [Entrepreneurs Portfolio](https://entrepreneursportfolio.com)
 - [Store Website (Test)](https://bscpe-store.web.app)
 - [Blog Post](https://djlozada.wordpress.com/portfolio/iv-fluid-level-indicator)
