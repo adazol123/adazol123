@@ -5,10 +5,10 @@
   </a>
 </p>
 
+
 <h1 align="center">Hi 👋, I'm Daniel lozada</h1>
 <h3 align="center">A passionate full-stack developer from Philippines</h3>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adazol123&" alt="adazol123" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adazol123&show_icons=true&locale=en&layout=compact" alt="adazol123" /></p>
 
 
 * :octocat: Computer Engineering Student @ 2019
@@ -21,7 +21,7 @@ ___
 
  💞️ I’m looking to collaborate on Web App Development
 
- 📫 How to reach me dpadayao40@gmail.com
+ 📫 How to reach me dpadayao40@outlook.ph
  
  <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,10 +29,12 @@ ___
 <a href="https://linkedin.com/in/daniel-josaphat-lozada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-josaphat-lozada" height="30" width="40" /></a>
 <a href="https://www.behance.net/adazolhub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="adazolhub" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/adazolhub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adazolhub" height="30" width="40" /></a>
+  <a href="https://www.figma.com/@adazolhub" target="blank"><img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/figma-1-logo-png-transparent.png" alt="adazolhub" height="30" width="20" /></a>
 </p>
 
 ---
 ### Junk Web
+- [Personal Portfolio](https://daniel-lozada.web.app/)
 - [Pokemon API fetch](https://pokemon-cards-adazol.vercel.app/)
 - [Live Group Chat](https://chat-box-adazolhub.web.app/)
 - [Adazolhub](https://adazolhub.com)
@@ -43,7 +45,8 @@ ___
 - [Shopping web app (re-design)](https://bscpe-store-v2.web.app)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adazol123&show_icons=true&locale=en&layout=compact" alt="adazol123" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adazol123&" alt="adazol123" /></p>
 
 
 <!---
