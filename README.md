@@ -43,7 +43,7 @@ ___
 - [Todo Web App](https://todo-app-adazolhub.web.app)
 - [Shopping web app (test)](https://bscpe-store.web.app)
 - [Shopping web app (re-design)](https://bscpe-store-v2.web.app)
-- [Adazolhub Shop (on-progress)](https://bscpe-store-beta.web.app)
+- [Adazolhub Shop (on-progress)](https://bscpe-store-beta.vercel.app)
 
 
 
