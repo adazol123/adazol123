@@ -36,13 +36,14 @@ ___
 ### Junk Web
 - [Personal Portfolio](https://daniel-lozada.web.app/)
 - [Pokemon API fetch](https://pokemon-cards-adazol.vercel.app/)
-- [Live Group Chat](https://chat-box-adazolhub.web.app/)
-- [Adazolhub](https://adazolhub.com)
 - [Entrepreneurs Portfolio](https://entrepreneursportfolio.com)
+- [Adazolhub](https://adazolhub.com)
+- [Live Group Chat](https://chat-box-adazolhub.web.app/)
 - [Blog Post](https://djlozada.wordpress.com/portfolio/iv-fluid-level-indicator)
 - [Todo Web App](https://todo-app-adazolhub.web.app)
 - [Shopping web app (test)](https://bscpe-store.web.app)
 - [Shopping web app (re-design)](https://bscpe-store-v2.web.app)
+- [Adazolhub Shop (on-progress)](https://bscpe-store-beta.web.app)
 
 
 
