@@ -15,6 +15,7 @@
 * 👉 System Engineer (Service Desk Analyst) @ 2020
 * 🔥 Aspiring Full Stack Developer @ 2021
 * 👻 Junior Web Developer @ 2022
+* 👻 Softwar Engineer @ 2023
 ___
  👀 I’m interested in Full Stack Development
 
@@ -34,8 +35,8 @@ ___
 </p>
 
 ---
-### Junk Web
-- [Personal Portfolio](https://daniel-lozada.web.app/)
+### Draft Websites
+- [Personal Portfolio](https://daniel.adazolhub.com/introduction)
 - [Pokemon API fetch](https://pokemon-cards-adazol.vercel.app/)
 - [Entrepreneurs Portfolio](https://entrepreneursportfolio.com)
 - [Adazolhub](https://adazolhub.com)
