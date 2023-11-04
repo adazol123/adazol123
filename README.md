@@ -6,7 +6,7 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm <a href="https://daniel-lozada.web.app">Daniel lozada</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://daniel.adazolhub.com/introduction">Daniel lozada</a></h1>
 <h3 align="center">A passionate full-stack developer from Philippines</h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adazol123&show_icons=true&locale=en&layout=compact" alt="adazol123" /></p>
 
