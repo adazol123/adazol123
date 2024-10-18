@@ -14,8 +14,8 @@
 * :octocat: Computer Engineering Student @ 2019
 * 👉 System Engineer (Service Desk Analyst) @ 2020
 * 🔥 Aspiring Full Stack Developer @ 2021
-* 👻 Junior Web Developer @ 2022
-* 👻 Softwar Engineer @ 2023
+* 👻 Software Engineer @ 2022
+* 🔥 Aspiring Software Architect @ 2024
 ___
  👀 I’m interested in Full Stack Development
 
