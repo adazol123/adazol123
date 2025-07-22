@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://www.adazolhub.com">
+  <a href="https://www.adazol.com">
     <img src="./logo.png" height="128">
     <h2 align="center">Adazol<span>HUB</span></h2>
   </a>
 </p>
 
 
-<h1 align="center">Hi 👋, I'm <a href="https://daniel.adazolhub.com/introduction">Daniel lozada</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://daniel.adazol.com">Daniel lozada</a></h1>
 <h3 align="center">A passionate full-stack developer from Philippines</h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adazol123&show_icons=true&locale=en&layout=compact" alt="adazol123" /></p>
 
@@ -17,13 +17,15 @@
 * 👻 Software Engineer @ 2022
 * 🔥 Aspiring Software Architect @ 2024
 ___
- 👀 I’m interested in Full Stack Development
+ ✨ Experienced in full-stack development (Typescript/Javascript, Node.js)
 
- 🌱 I’m currently learning Node JS, React JS, Next JS
+ 🌱 I’m currently learning Generative AI, Prompt Engineering, etc.
+
+ 👀 I’m interested in Software/Cloud Architect
 
  💞️ I’m looking to collaborate on Web App Development
 
- 📫 How to reach me dpadayao40@outlook.ph
+ 📫 How to reach me daniel.lozada@outlook.ph
  
  <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,6 +37,7 @@ ___
 </p>
 
 ---
+<!---
 ### Draft Websites
 - [Personal Portfolio](https://daniel.adazolhub.com/introduction)
 - [Pokemon API fetch](https://pokemon-cards-adazol.vercel.app/)
@@ -46,6 +49,7 @@ ___
 - [Shopping web app (test)](https://bscpe-store.web.app)
 - [Shopping web app (re-design)](https://bscpe-store-v2.web.app)
 - [Adazolhub Shop (on-progress)](https://bscpe-store-beta.vercel.app)
+--->
 
 
 
