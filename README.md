@@ -8,18 +8,25 @@
 
 <p align="center">Hi 👋, I'm <a href="https://daniel.adazol.com">Daniel lozada</a></p>
 <p align="center">A passionate full-stack developer from Philippines</p>
-<p align="center"><img align="center" width="100%" src="https://nirzak-streak-stats.vercel.app/?user=adazol123&theme=github_dark&hide_border=true" alt="adazol123" /></p>
 
-  :octocat: Computer Engineering Student @ 2019
-  
-  👉 System Engineer (Service Desk Analyst) @ 2020
+```bash
+          |
+  📕 2019 | Computer Engineering Student
+          |
+  💼 2020 | System Engineer (Service Desk Analyst)
+          |
+  🔥 2021 | Aspiring Full Stack Developer
+          |
+  💻 2022 | Software Engineer/Developer (Web Full-Stack)
+          |
+  🔥 2025 | Aspiring Software/Cloud Architect
+          |
+```
 
-  🔥 Aspiring Full Stack Developer @ 2021
+<p align="center"><img align="center" width="100%" src="https://nirzak-streak-stats.vercel.app/?user=adazol123&theme=github_dark&hide_border=false" alt="adazol123" /></p>
 
-  👻 Software Engineer @ 2022
+---
 
-  🔥 Aspiring Software Architect @ 2024
-___
  ✨ Experienced in full-stack development (Typescript/Javascript, Node.js)
 
  🌱 I’m currently learning Generative AI, Prompt Engineering, etc.
